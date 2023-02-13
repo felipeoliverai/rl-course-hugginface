@@ -1,0 +1,1 @@
+python q-learning-snow.py --env_name FrozenLake-v1 --n_training_episodes 10000 --learning_rate 0.08 --n_eval_episodes 100 --max_steps 99 --gamma 0.95 --max_epsilon 1.0 --min_epsilon 0.05 --decay_rate 0.0005 --out_directory "video_sample/agent_frozen.mp4" --num_episodes 100
