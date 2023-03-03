@@ -9,4 +9,5 @@ Deep RL course given by HuggingFace 😊
 
 <br>
 
+
 ### Chapter 2 - Q-learning algorithm
